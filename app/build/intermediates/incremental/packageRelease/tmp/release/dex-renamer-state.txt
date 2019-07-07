@@ -1,0 +1,4 @@
+#Wed Jul 03 19:14:55 MSK 2019
+base.0=C\:\\Users\\x\\StudioProjects\\GeoQuiz\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

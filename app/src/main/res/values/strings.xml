@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_china">The capital of China is Beijin</string>
+    <string name="question_belarus">The capital of Belarus is Beijin</string>
+    <string name="question_russia">The capital of Russia is Moskow</string>
+    <string name="question_italy">The capital of Italy is Paris</string>
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
